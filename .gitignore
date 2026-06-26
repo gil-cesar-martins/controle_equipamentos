@@ -1,0 +1,22 @@
+# --- Banco de Dados ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Pastas de Imagens ---
+fotos/
+
+# --- Python / Ambientes ---
+__pycache__/
+.venv/
+env/
+venv/
+.env
+
+# --- Arquivos do Sistema Operacional ---
+.DS_Store
+Thumbs.db
+
+# --- Logs e Arquivos temporários ---
+*.log
+.streamlit/
